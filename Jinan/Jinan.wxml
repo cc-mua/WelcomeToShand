@@ -1,0 +1,18 @@
+<!--pages/Jinan/Jinan.wxml-->
+<view class="box">
+    <view class="title" style="color: aquamarine;">泉城济南</view> 
+    <swiper autoplay interval="2000" circular indicator-dots indicator-color="#0094ff" indicator-active-color="#ff0094">
+        <swiper-item><image mode="widthFix" src="https://bkimg.cdn.bcebos.com/pic/03087bf40ad162d9bc9199b018dfa9ec8a13cd1b?x-bce-process=image/resize,m_lfit,h_168,limit_1/format,f_auto"/></swiper-item>
+        <swiper-item><image mode="widthFix" src="https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa12047bc174e10b912c8fc2e37?x-bce-process=image/resize,m_lfit,h_168,limit_1/format,f_auto"/></swiper-item>
+        <swiper-item><image mode="widthFix" src="https://bkimg.cdn.bcebos.com/pic/1ad5ad6eddc451da809cf747bffd5266d0163237?x-bce-process=image/resize,m_lfit,h_168,limit_1/format,f_auto"/></swiper-item>
+    </swiper> 
+    <view>
+        <view class="textStyle01">泉城济南，泉群众多、水量丰沛，被称为的天然岩溶泉水博物馆。 </view>
+        <text>\n</text>
+        <view class="textStyle01">济南城内百泉争涌，分布着久负盛名的趵突泉泉群、黑虎泉泉群、五龙潭泉群、珍珠泉泉群、白泉泉群、百脉泉泉群、玉河泉泉群、涌泉泉群、袈裟泉泉群以及平阴的洪范池泉群十大泉群。 </view>
+        <text>\n</text>
+        <view class="textStyle01">以上十大泉群均属“济南泉群”。济南城内百泉争涌，向有名泉七十二之说，流传甚广。 </view>
+        <text>\n</text>
+
+    </view>
+</view>

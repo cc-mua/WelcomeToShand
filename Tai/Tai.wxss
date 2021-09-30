@@ -1,0 +1,12 @@
+/* pages/Tai/Tai.wxss */
+.textStyle01{
+    /* 文本样式01 */
+    color: lightpink;
+    letter-spacing: 10px;
+    vertical-align: left;
+    text-indent: 50px;
+    text-decoration: underline;
+    text-decoration-color: lightgoldenrodyellow;
+    line-height: 30px;
+    white-space: normal;
+}

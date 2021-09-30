@@ -1,0 +1,20 @@
+/* pages/Jinan/Jinan.wxss */
+.textStyle01{
+    /* 文本样式01 */
+    color: aqua;
+    letter-spacing: 10px;
+    vertical-align: left;
+    text-indent: 50px;
+    text-decoration-color: lightgoldenrodyellow;
+    line-height: 30px;
+    white-space: normal;
+    background-color: lightgoldenrodyellow;
+}
+swiper{ 
+    width: 100%;
+    height: calc(100vw*308/149);
+}
+image{
+    width: 100%;
+    height: auto;
+}

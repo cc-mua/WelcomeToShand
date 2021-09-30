@@ -1,0 +1,81 @@
+{
+  "pages":[
+    "pages/WelcomeToShandong/WelcometoShandong",
+    "pages/index/index",
+    "pages/firstPage/firstPage",
+    "pages/Heze/Heze",
+    "pages/Jinan/Jinan",
+    "pages/Tai/Tai",
+    "pages/WTSDindex/WTSDindex",
+    "pages/Confucius/Confusius",
+    
+    "pages/LotterySimulator/LotterySimulator",
+    "pages/Compound/Compound",
+    "pages/2.14/2.14",
+    "pages/2.13/2.13",
+    "pages/2.12/2.12",
+    "pages/2.11/2.11",
+    "pages/Calculator/Calculator",
+    "pages/2.9/2.9",
+    "pages/Converter/Converter",
+    "pages/2.8/2.8",
+    "pages/2.7/2.7",
+    "pages/2.5/2.5",
+    "pages/2.4/2.4",
+    "pages/2.3/2.3",
+    "pages/2.2/2.2",
+    "pages/2.1/2.1",
+    "pages/logs/logs"
+    
+  ],
+  "tabBar": {
+    "list":[
+      {
+        "pagePath": "pages/Confucius/Confusius",
+        "text": "三孔",
+        "iconPath": "icon/iconConfu.png",
+        "selectedIconPath": "icon/_iconConfu.png"
+      },
+
+      {
+        "pagePath": "pages/Tai/Tai",
+        "text": "泰山",
+        "iconPath": "icon/iconTai.png",
+        "selectedIconPath": "icon/_iconTai.png"
+      },
+
+      {
+        "pagePath": "pages/WelcomeToShandong/WelcometoShandong",
+        "text": "好客山东欢迎您",
+        "iconPath": "icon/iconIndex.png",
+        "selectedIconPath": "icon/_iconIndex.png"
+      },
+
+      {
+        "pagePath": "pages/Jinan/Jinan",
+        "text": "济南",
+        "iconPath": "icon/iconJinan.png",
+        "selectedIconPath": "icon/_iconJinan.png"
+      },
+
+      {
+        "pagePath": "pages/Heze/Heze",
+        "text": "菏泽",
+        "iconPath": "/icon/iconHeze.png",
+        "selectedIconPath": "/icon/_iconHeze.png"
+      }
+    ]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f58f98",
+    "navigationBarTitleText": "我的微信小程序",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#fab27b"
+
+  },
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,12 @@
+<!--pages/Heze/Heze.wxml-->
+<view class="box">
+    <view class="title"> 菏泽——牡丹之都 </view>
+    <image src="https://z3.ax1x.com/2021/09/30/4Isz3F.png"></image>
+    <view class="textStyle01">
+        “菏泽”原系天然古泽，为济水所汇，年久湮塞，遗址在菏泽市东南15千米处。以水名称县，始于雍正十三年（1735年），曹州升为府，设附郭县，赐名菏泽。
+    </view>
+    <text>\n</text>
+    <view class="textStyle01">有中国“牡丹之都”之称，特色景点有百花园、牡丹园等。</view>
+    <text>\n</text>
+    <view class="textStyle01">百花园以传统稀有珍贵品种多，花色齐全，分布合理便于观赏而驰名。该园以牡丹名贵品种繁多而被誉为“牡丹珍品园”。菏泽百花园内的玉翠荷花，为中国牡丹中株型最大，株龄最古老的牡丹树之王。观赏者皆称“牡丹王”。</view>
+</view>
